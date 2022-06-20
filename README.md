@@ -8,7 +8,6 @@ Data Source: data.js
 Software: E6+, HTML, CSS, Bootstrap, D3
 
 ## Results
-Index page:file:///C:/Users/linda/OneDrive/Desktop/UFOs/index.html
 This is the initial page. the page displays, date, location, UFO descriptive data, and comments. 
 The user can re-initialize the page by clicking on the navbar at the top.
 ![UFO Sighthings](https://user-images.githubusercontent.com/101952961/174519735-179dd172-a272-4bbe-a27c-effc2851d30e.jpg)
