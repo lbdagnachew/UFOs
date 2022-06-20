@@ -19,6 +19,8 @@ Filter search:
 ## Summary
 
 Drawbacks:
+
+
 -The data is limited and outdated since it is not linked to a "live" source.
 -Including a button to clear the filters is also needed. The button would be located below the last filter.
 
